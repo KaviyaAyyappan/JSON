@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonCreate", "JsonCreate\Js
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentCreate", "StudentCreate\StudentCreate.csproj", "{71C84B82-D0A0-42D6-8C10-00EA633C4708}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonObj", "JsonObj\JsonObj.csproj", "{A5C69A59-CFC0-49E0-ABD3-4DDEF486D966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{71C84B82-D0A0-42D6-8C10-00EA633C4708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C84B82-D0A0-42D6-8C10-00EA633C4708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C84B82-D0A0-42D6-8C10-00EA633C4708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C69A59-CFC0-49E0-ABD3-4DDEF486D966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C69A59-CFC0-49E0-ABD3-4DDEF486D966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C69A59-CFC0-49E0-ABD3-4DDEF486D966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C69A59-CFC0-49E0-ABD3-4DDEF486D966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

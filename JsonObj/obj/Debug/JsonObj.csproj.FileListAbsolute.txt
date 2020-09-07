@@ -1,0 +1,10 @@
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\bin\Debug\JsonObj.exe.config
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\bin\Debug\JsonObj.exe
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\bin\Debug\JsonObj.pdb
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\obj\Debug\JsonObj.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\obj\Debug\JsonObj.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\obj\Debug\JsonObj.csproj.CopyComplete
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\obj\Debug\JsonObj.exe
+C:\Users\kaviya\source\repos\JsonCreate\JsonObj\obj\Debug\JsonObj.pdb
